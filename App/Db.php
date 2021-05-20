@@ -21,7 +21,7 @@ class Db
 
     protected function __construct()
     {
-        $this->dbh = new \PDO('mysql:host=localhost;dbname=bqbdev', 'root', '');
+        $this->dbh = new \PDO('mysql:host=localhost;dbname=profcosm', 'root', '');
     }
 
     public function query($sql, $class, $params = []): array

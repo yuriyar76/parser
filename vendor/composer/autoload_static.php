@@ -94,6 +94,10 @@ class ComposerStaticInit48a1b39b30e53e5cc87f2fa3b12df667
             'MyCLabs\\Enum\\' => 13,
             'Matrix\\' => 7,
         ),
+        'H' => 
+        array (
+            'HTMLDOM\\' => 8,
+        ),
         'C' => 
         array (
             'Complex\\' => 8,
@@ -141,6 +145,10 @@ class ComposerStaticInit48a1b39b30e53e5cc87f2fa3b12df667
         'Matrix\\' => 
         array (
             0 => __DIR__ . '/..' . '/markbaker/matrix/classes/src',
+        ),
+        'HTMLDOM\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/lib',
         ),
         'Complex\\' => 
         array (
